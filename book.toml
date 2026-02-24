@@ -1,0 +1,13 @@
+[book]
+title = "Луна и Солнце: Практическая астрономия мусульманского календаря"
+authors = ["Расул Османов"]
+language = "ru"
+description = "Книга о практическом применении задач прикладной астрономии для составления мусульманских календарей"
+
+[output.html]
+default-theme = "light"
+preferred-dark-theme = "ayu"
+mathjax-support = true
+
+[output.html.print]
+enable = true
